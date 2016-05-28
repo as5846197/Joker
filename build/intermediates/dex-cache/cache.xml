@@ -1,2 +1,236 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_d30b0f636e1b85f3cc27ef41aabb444f6451d874/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_4f323524172656bdd70ecc6ec80fd70e78bfcd3e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d871402eadbeaa4ee0002f34b1cc3763976b966f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5577cc226bb8b1ad0c65a679254d8d7950b32e46">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ybq-Android-SpinKit-1.0.3_7d2548bc94148116c7fae934932cd8c884ff6516/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_b22b5af082d9eda2f2498c20eb4db348c6d2f920/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-recyclerview-v7/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="74ccbcc431e5d95ee2cf2783128700f32222dca3">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-recyclerview-v7-0.4.0_b7bf1138422fdc4e3b3a07559fb6e0f805a380a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_b872b626ad90e0d55cfd5a871b7bfb1e6b1a469c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.jude/utils/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e28ad403fd214ec3afa1578282b27c489e828917">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jude-utils-1.1.3_7acef43f90792ac3dbf1eb792249581c15e01a9a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_03fcf0ba2844244c13033b92806c9ba9731decb9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.2_5ce2a3058c5434d300daf420a831e5fdb623d29e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-design/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d875246afc9be5798bf65fd61fb42af06fee4553">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-design-0.4.0_0ba059597d8ae02a7b291a98d22a63d9300a58bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_6efb47b94dbc1bea1fdaae3efc016861d3d938ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_d54ef3d73119fb53c8210f940ac5f1d42ea8f44a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_fe86702979a1935dae34f43e78ffb727ffe32198/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.4/3cc424c6eda381bf4aee40dc3ccdecc27b2106aa/rxjava-1.1.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3cc424c6eda381bf4aee40dc3ccdecc27b2106aa">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.4_c2efcbcd54065376fa035261ea562238d8ccf83c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-1.3.1_c631c1aef63f0b80824deba3baf510edd265cc59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_a4fbe91599d5e03e8328b8e38d4743afefc3c777/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.0_983b4448fe1aa06b87d44c804164886fb16c8990/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_f15a8f0728185b061c359fafd1a5ffb619f651f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_fca35cf36465949f324ace919f6b716806a02fe2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_e93dc74b20b71b2facf466e9e720d48728f7c206/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d58228a1bae4cc6bb24208293e86c4207e17976c">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_84cdc723095d86b539c4c9053a7f4e02a3de6bab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.trello/rxlifecycle-components/0.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c90d2e1f0959b6e1f312b9f53049a342f0e82df">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.trello-rxlifecycle-components-0.6.1_414e2f488c43d3abc570b1ac696491696afd782a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.0_e5cfc487b2c97284a75abf6f4893c6c0acddfcf7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_dc87144b1d777cb0bcd8f648eb42fc240be20822/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="94195528bd9bcf11245fd3a7e30a27486e457802">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b2a781c128fabf25a65cf3e7bdd5b35fdab6dac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_5b374f08e2957c61a912b20207c7fd97c4ab7cfa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d4abf7e39e46ffb7689ec35e36f8922d10b79aad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.trello/rxlifecycle/0.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a98a50c56978d02c0651d12f5a26c3e7c31c397">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.trello-rxlifecycle-0.6.1_d481d012655442838f95e790037d85c78c20d280/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.3.1/c596b3b33b5a92107bb70544bb5ee35f597bc6d8/stetho-okhttp3-1.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-okhttp3-1.3.1_46661f4dc67b722bad1f6819658daf23df65a0c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_d964859db9a21ea96222f7a7500b45b651aa5ded/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_dd37d71a30f619d306966b94bb8e83fc6fc04737/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/zhangcaoyang/AndroidStudioProjects/Joker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_a6a55456fb45eda12a67f1391be2e4e7437d6850/classes.dex" />
+    </item>
+
+</items>

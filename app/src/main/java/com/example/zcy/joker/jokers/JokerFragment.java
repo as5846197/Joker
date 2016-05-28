@@ -209,6 +209,7 @@ public class JokerFragment extends BaseFragment implements JokerContract.View, S
 
     private void onUpViewClicked(Void v){
         linearLayoutManager.scrollToPosition(0);
+        turnToUpView.setVisibility(View.GONE);
     }
 
 
